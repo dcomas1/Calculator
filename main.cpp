@@ -3,7 +3,6 @@
  * Names:			Derian Comas
  * Course:			COP 1000C
  * Description:		This program will create a Calculator for the user to control using intergers
- * Date:			10/21/2022
  */
 
 //Preprocessor Directives
